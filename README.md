@@ -52,6 +52,8 @@
 
 ## Conclusion
 
+## 画像置き場
+[画像置き場](https://github.com/furuhashilab/2020gsc_RenAoki-/issues/1)
 
 
 
