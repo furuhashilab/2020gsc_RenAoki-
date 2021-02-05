@@ -1,5 +1,5 @@
 # 2020gsc_RenAoki-
-2020年度　青木ゼミ論用repository
+2020年度　青木ゼミ論用Repository
 
 ## 2020年度　青木怜ゼミ論
 
