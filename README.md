@@ -44,14 +44,20 @@
 
 ### 今回使用した機材
 - カメラ： Nikon D5600
+<img width="445" alt="スクリーンショット 2021-02-06 12 37 34" src="https://user-images.githubusercontent.com/49857703/107108089-cf681080-6878-11eb-8908-84b7e5c29774.png">
 
 - 三脚：SONY リモコン三脚 VCT-VPR1
+![IMG_3335](https://user-images.githubusercontent.com/49857703/107108092-d0993d80-6878-11eb-8ee4-ac9a6c0c1649.PNG)
+![IMG_3339](https://user-images.githubusercontent.com/49857703/107108095-d1ca6a80-6878-11eb-974c-adbe5974dddc.JPG)
 
 - グリーンバック：Emart 3.0×3.6m
+![IMG_2881038DBE39-1](https://user-images.githubusercontent.com/49857703/107108099-d42cc480-6878-11eb-8ccc-373be3147f77.jpeg)
 
 -グリーンバックスタンド： Hemmotop 200×300cm
+![IMG_F9161855D6D3-1](https://user-images.githubusercontent.com/49857703/107108101-d7c04b80-6878-11eb-95ed-8266958448ec.jpeg)
 
 -洗濯機：HITACHI bd-sv110fr-w
+![IMG_3366](https://user-images.githubusercontent.com/49857703/107108103-dabb3c00-6878-11eb-82ee-d9702405d56e.JPG)
 
 ※編集に関しては「Final Cut Pro」「Adobe Premiere Pro」「IMovie」「Davinci Resolve」「Filmora」の４つのソフトをそれぞれ使って、合成の質を比較する。
 
