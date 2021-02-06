@@ -104,6 +104,8 @@ Filmora/微調整機能「オフセット 100%」
 ## プレゼンスライド
 [Google スライド](https://docs.google.com/presentation/d/1ya_OPEOIGDTfON705SSTY1sevg53toG5hmu2BDtvUm4/edit?usp=sharing)
 
+## プロジェクトリンク
+[Github Project](https://github.com/furuhashilab/2020gsc_RenAoki-/projects/1)
 
 ## 画像置き場
 [画像置き場](https://github.com/furuhashilab/2020gsc_RenAoki-/issues/1)
