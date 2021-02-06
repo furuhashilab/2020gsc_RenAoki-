@@ -59,7 +59,7 @@
 -洗濯機：HITACHI bd-sv110fr-w
 ![IMG_3366](https://user-images.githubusercontent.com/49857703/107108103-dabb3c00-6878-11eb-82ee-d9702405d56e.JPG)
 
-※編集に関しては「Final Cut Pro」「Adobe Premiere Pro」「IMovie」「Davinci Resolve」「Filmora」の４つのソフトをそれぞれ使って、合成の質を比較する。
+※編集に関しては「Final Cut Pro」「Adobe Premiere Pro」「IMovie」「Davinci Resolve」「Filmora」の5つのソフトをそれぞれ使って、合成の質を比較する。
 
 ## 動画リンク
 [動画リンクはこちら]()
@@ -80,9 +80,15 @@
 ## Discussion
 今回は、グリーンバック撮影において最低限必要な設置の方法、撮影の方法、そして、近年よく使われる主要の動画編集ソフト５つ「Final Cut Pro」「Adobe Premiere Pro」「IMovie」「Davinci Resolve」「Filmora」を使い、動画で解説した。そして、今回はグリーンバック撮影、クロマキー合成において失敗に繋がってしまう「しわ問題」について深掘りし、しわの伸ばし方についてを考察し実践した。
 
-しわ伸ばしに関しては、設置時にピンと強く貼る方法やアイロンを使って細かく気になる部分を伸ばす方法、そして洗濯機を使った伸ばし方を実践した
+しわ伸ばしに関しては、設置時にピンと強く貼る方法やアイロンを使って細かく気になる部分を伸ばす方法、そして洗濯機を使った伸ばし方を実践した。
+結果としては最もグリーンバックのしわが取れた方法は、洗濯機の「スチームアイロン」という機能を使った方法であった。以下の画像のように
 
-## Conclusion
+スチームアイロン前
+![IMG_3365](https://user-images.githubusercontent.com/49857703/107108176-7fd61480-6879-11eb-96a3-eedccbd2390c.JPG)
+
+スチームアイロン後
+![IMG_3368](https://user-images.githubusercontent.com/49857703/107108177-819fd800-6879-11eb-8b15-4b97df53cb8a.JPG)
+
 
 
 ## 参考文献
