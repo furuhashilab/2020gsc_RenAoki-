@@ -45,7 +45,8 @@
 
 <img width="593" alt="スクリーンショット 0003-01-25 15 14 17" src="https://user-images.githubusercontent.com/49857703/105668290-5e436780-5f20-11eb-9fa2-b38f9fbfbb37.png">
 
-<img width="591" alt="スクリーンショット 0003-01-25 15 14 27" src="https://user-images.githubusercontent.com/49857703/105668294-613e5800-5f20-11eb-8028-a7b96ab79395.png">
+<img width="591" alt="スクリーンショット 0003-02-06 10 10 52" src="https://user-images.githubusercontent.com/49857703/107104115-ad17c800-6863-11eb-8d3a-92d556c37a39.png">
+
 
 
 ## Discussion
