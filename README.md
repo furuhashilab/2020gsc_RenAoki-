@@ -47,6 +47,8 @@
 
 <img width="591" alt="スクリーンショット 0003-02-06 10 10 52" src="https://user-images.githubusercontent.com/49857703/107104115-ad17c800-6863-11eb-8d3a-92d556c37a39.png">
 
+<img width="584" alt="スクリーンショット 0003-02-06 10 38 12" src="https://user-images.githubusercontent.com/49857703/107104983-7643b100-6867-11eb-949e-7a57a122b578.png">
+
 
 
 ## Discussion
