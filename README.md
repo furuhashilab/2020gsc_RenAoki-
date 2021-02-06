@@ -65,11 +65,15 @@
 [動画リンクはこちら]()
 
 ## Results
+Final Cut Pro/微調整機能は「拡大/縮小 数値：-1」
 <img width="593" alt="スクリーンショット 0003-01-25 15 13 45" src="https://user-images.githubusercontent.com/49857703/105668246-4bc92e00-5f20-11eb-8278-3a61a899a4db.png">
 
+Premiere Pro/微調整機能は「コントラスト　100%」
 <img width="592" alt="スクリーンショット 0003-01-25 15 14 00" src="https://user-images.githubusercontent.com/49857703/105668282-5b487700-5f20-11eb-8ed1-4f9d37e8684d.png">
 
+IMovie/微調整機能は「柔らかさ：真ん中」
 <img width="593" alt="スクリーンショット 0003-01-25 15 14 17" src="https://user-images.githubusercontent.com/49857703/105668290-5e436780-5f20-11eb-9fa2-b38f9fbfbb37.png">
+
 
 <img width="591" alt="スクリーンショット 0003-02-06 10 10 52" src="https://user-images.githubusercontent.com/49857703/107104115-ad17c800-6863-11eb-8d3a-92d556c37a39.png">
 
