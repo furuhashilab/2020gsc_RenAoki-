@@ -57,8 +57,10 @@
 
 
 ## 参考文献
+[参考文献リスト](https://docs.google.com/spreadsheets/d/1zTMf7d9KPZjrl8c02YgE8nf3t7-bFhhWMs9zMCOAKC8/edit#gid=736355341)
 
 ## プレゼンスライド
+[Google スライド](https://docs.google.com/presentation/d/1ya_OPEOIGDTfON705SSTY1sevg53toG5hmu2BDtvUm4/edit?usp=sharing)
 
 
 ## 画像置き場
