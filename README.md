@@ -59,7 +59,19 @@
 -洗濯機：HITACHI bd-sv110fr-w
 ![IMG_3366](https://user-images.githubusercontent.com/49857703/107108103-dabb3c00-6878-11eb-82ee-d9702405d56e.JPG)
 
-※編集に関しては「Final Cut Pro」「Adobe Premiere Pro」「IMovie」「Davinci Resolve」「Filmora」の5つのソフトをそれぞれ使って、合成の質を比較する。
+※編集に関しては
+
+「Final Cut Pro」
+
+「Adobe Premiere Pro」
+
+「IMovie」
+
+「Davinci Resolve」
+
+「Filmora」
+
+の5つのソフトをそれぞれ使って、合成の質を比較する。
 
 ## 動画リンク
 [動画リンクはこちら]()
