@@ -74,7 +74,7 @@
 の5つのソフトをそれぞれ使って、合成の質を比較する。
 
 ## 動画リンク
-[動画リンクはこちら]()
+[動画リンクはこちら](https://www.youtube.com/watch?v=FizU1whgDh8&feature=youtu.be)
 
 ## Results
 Final Cut Pro/微調整機能は「拡大/縮小 数値：-1」
