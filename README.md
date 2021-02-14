@@ -99,7 +99,7 @@
 -洗濯機：HITACHI bd-sv110fr-w
 ![IMG_3366](https://user-images.githubusercontent.com/49857703/107108103-dabb3c00-6878-11eb-82ee-d9702405d56e.JPG)
 
--ワンダム ストレートアイロン
+-ワンダム ストレートアイロン AHI-251　BK/WH
 <img width="965" alt="スクリーンショット 0003-02-14 15 13 43" src="https://user-images.githubusercontent.com/49857703/107869949-4899e000-6ed7-11eb-9f32-7f34ceb8845f.png">
 
 ## 動画リンク
