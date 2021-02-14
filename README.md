@@ -100,9 +100,7 @@
 ![IMG_3366](https://user-images.githubusercontent.com/49857703/107108103-dabb3c00-6878-11eb-82ee-d9702405d56e.JPG)
 
 -ワンダム ストレートアイロン
-
-
-※編集に関しては
+<img width="965" alt="スクリーンショット 0003-02-14 15 13 43" src="https://user-images.githubusercontent.com/49857703/107869949-4899e000-6ed7-11eb-9f32-7f34ceb8845f.png">
 
 ## 動画リンク
 [動画リンクはこちら](https://www.youtube.com/watch?v=FizU1whgDh8&feature=youtu.be)
@@ -137,15 +135,11 @@ Filmora/微調整機能「オフセット 100%」
 ## Discussion
 今回は、グリーンバック撮影において最低限必要な設置の方法、撮影の方法、そして、近年よく使われる主要の動画編集ソフト５つ
 
-「Final Cut Pro」
-
-「Adobe Premiere Pro」
-
-「IMovie」
-
-「Davinci Resolve」
-
-「Filmora」
+ - Final Cut Pro X
+ - Adobe Premiere Pro
+ - iMovie
+ - Davinci Resolve
+ - Filmora
 
 を使い、動画で解説した。そして、今回はグリーンバック撮影、クロマキー合成において失敗に繋がってしまう「しわ問題」について深掘りし、しわの伸ばし方についてを考察し実践した。
 
